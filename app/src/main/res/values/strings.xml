@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">projekt_bam</string>
+    <string name="login_text">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Hasło</string>
+    <string name="loginButton">Zaloguj</string>
+    <string name="no_account_register">Nie masz konta?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_on_register">Login</string>
+    <string name="registerButton">Register</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="logout">Logout</string>
+    <string name="you_are_logged_in_successfully">You are logged in successfully.</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="add_data">Add data</string>
+</resources>
